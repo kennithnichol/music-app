@@ -2,7 +2,7 @@
   "name": "music-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sirnotes.github.io/music-app",
+  "homepage": "https://kennithnichol.github.io/music-app",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -11,7 +11,6 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "quickdeploy": "gh-pages -d build",
     "precommit": "pretty-quick --staged",
     "start": "react-scripts start",
     "build": "react-scripts build",
